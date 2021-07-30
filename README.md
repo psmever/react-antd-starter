@@ -1,5 +1,5 @@
 # React Antd Admin Starer
-## React + Typesctipy + Redux + Redux-Saga + Antd + Eslint + Prettier
+## React + Typescript + Redux + Redux-Saga + Antd + Eslint + Prettier
 ---
 #### First Make Local Env file.
 ```bash
